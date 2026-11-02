@@ -1,0 +1,42 @@
+{
+  "id": "./",
+  "name": "Ali English — Private AI Language Academy",
+  "short_name": "AliEnglish",
+  "description": "High-end, deeply personalized English learning & intelligence system for Persian speakers specializing in AI, Computer Engineering, and Academic Research.",
+  "start_url": "./#/command-center",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#03050a",
+  "theme_color": "#03050a",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
